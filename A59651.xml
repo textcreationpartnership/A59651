@@ -1,0 +1,407 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Divine providence, the support of good men under all events a sermon preached before the Lord Mayor, &amp;c. at Guild-Hall Chappel, June 20th, 1680 / by William Shelton, rector of St. James, Colchester.</title>
+            <author>Shelton, William, d. 1699.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 44 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59651</idno>
+            <idno type="STC">Wing S3098</idno>
+            <idno type="STC">ESTC R37383</idno>
+            <idno type="EEBO-CITATION">16413009</idno>
+            <idno type="OCLC">ocm 16413009</idno>
+            <idno type="VID">105388</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59651)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105388)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1158:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Divine providence, the support of good men under all events a sermon preached before the Lord Mayor, &amp;c. at Guild-Hall Chappel, June 20th, 1680 / by William Shelton, rector of St. James, Colchester.</title>
+                  <author>Shelton, William, d. 1699.</author>
+               </titleStmt>
+               <extent>[7], 31, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Nathaniel Ranew ... and Jonathan Robinson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement: p. [1] at end.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+                  <note>Includes bibliographical references.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Psalms XCVII, 1 --  Sermons.</term>
+               <term>Providence and government of God --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="license">
+            <pb facs="tcp:105388:1"/>
+            <head>Clayton, Mayor.</head>
+            <p>C<g ref="char:V">Ʋ</g>ria ſpecial. tent. die Dominico, quar<g ref="char:EOLhyphen"/>to Die <hi>Julij, 1680.</hi> Regni Annoque Regis <hi>Caroli</hi> Secundi, <hi>Angliae,</hi> &amp;c. <hi>XXXII.</hi>
+            </p>
+            <p>THis Court doth deſire Mr. <hi>Shelton</hi> to Print his Sermon, lately Preach<g ref="char:EOLhyphen"/>ed at the <hi>Guild-Hall</hi> Chappel, before the Lord Mayor and Aldermen of this City.</p>
+            <closer>
+               <signed>Wagſtaffe.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:105388:1" rendition="simple:additions"/>
+            <p>
+               <hi>Divine Providence.</hi> THE SUPPORT OF GOOD MEN Under all EVENTS. A SERMON Preached before the Lord Mayor, &amp;c. At <hi>Guild-Hall</hi> Chappel, <hi>June 20th.</hi> 1680.</p>
+            <p>By <hi>William Shelton,</hi> Rector of St. <hi>James Colcheſter.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Nathaniel Ranew</hi> at the <hi>King's Arms,</hi> and <hi>Jonathan Robinſon</hi> at the <hi>Golden Lyon,</hi> in St. <hi>Paul</hi>'s Church-yard. 1680.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:105388:2"/>
+            <pb facs="tcp:105388:2"/>
+            <head>TO THE Right Honourable, S<hi rend="sup">r</hi>. ROBERT CLAYTON Lord Mayor, And to the Right Worſhipful the ALDERMEN and SHERIFFS OF THE <hi>CITY</hi> of <hi>LONDON.</hi>
+            </head>
+            <opener>
+               <salute>Right Honourable and Right Worſhipful,</salute>
+            </opener>
+            <p>THe Doctrine of Providence has divers Adverſaries: Not only ſuch as Athe<g ref="char:EOLhyphen"/>iſtically disbelieve it, but ſuch alſo as perverſly infer from it; ſo
+<pb facs="tcp:105388:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:105388:3"/> 
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:105388:4"/> do they who from preſent Succeſs ar<g ref="char:EOLhyphen"/>gue to the Merits of their Cauſe, and juſtifie their Villanies in the Name of God.</p>
+            <p>If to grate upon former times were a pleaſing Argument, or ſuch as might ſerve any good End, I could have made this a part of my Diſcourſe: But hav<g ref="char:EOLhyphen"/>ing contented my ſelf to give an hint, that the Providence of God is no Juſti<g ref="char:EOLhyphen"/>fication of wicked Enterprizes, I choſe theſe Words for another purpoſe.</p>
+            <p>Inſtead of diſputing a Controverſie (of which theſe Times are full) I thought it as ſeaſonable to put men in mind of a Truth, which we all ac<g ref="char:EOLhyphen"/>knowledg, but it has not a ſufficient In<g ref="char:EOLhyphen"/>fluence upon our Lives. If it be too hard to call them Adverſaries to this Doctrine, yet it muſt be owned that they diſparage Providence, that they have low and diſhonourable thoughts of
+<pb facs="tcp:105388:4"/> God's governing the World, who can<g ref="char:EOLhyphen"/>not infer from his <hi>Wiſdom</hi> and <hi>Goodneſs</hi> and <hi>Power,</hi> that it is ſafe and happy to truſt in him.</p>
+            <p>That which is ſaid to this End in the following Sermon, was by your <hi>Lord<g ref="char:EOLhyphen"/>ſhip</hi> and the <hi>Aldermen</hi> then preſent, re<g ref="char:EOLhyphen"/>ceived with ſuch candor and good ac<g ref="char:EOLhyphen"/>ceptance, that you have thought fit to command it to be made Publick. To which I conſent more as a Teſtimony of my Obedience, than an Inſtance of my Choice. I have not ſo great an O<g ref="char:EOLhyphen"/>pinion of it, as to think, it deſerves bet<g ref="char:EOLhyphen"/>ter than many others which are not Printed.</p>
+            <p>Yet I know it was preach'd with an honeſt Deſign, And I know there is need that men ſhould be awaken'd to a ſenſe of their dependence on God; And if any honeſt man finds himſelf brought to a better temper of mind by reading
+<pb facs="tcp:105388:5"/> this Sermon; If it give occaſion to any man, to reſolve by the Grace of God to live better, that he may not make God his Enemy; and if it ſhall then encou<g ref="char:EOLhyphen"/>rage him to truſt in God whatever be<g ref="char:EOLhyphen"/>fals him; I will thank God, who put theſe thoughts into my mind, and I will thank your Lordſhip and your Brethren, for being Inſtruments thus to reform a<g ref="char:EOLhyphen"/>ny wan's life, or to ſatisfie his mind.</p>
+            <closer>
+               <signed>I am, Right Honourable and Right Worſhipful, Your moſt Humble and Faithful Servant, W. SHELTON.</signed>
+               <dateline>Colcheſter,
+<date>
+                     <hi>July</hi> 8<hi rend="sup">th</hi>. 1680.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:105388:5"/>
+            <head>DIVINE PROVIDENCE, THE SUPPORT OF GOOD MEN UNDER ALL EVENTS.</head>
+            <head type="sub">A Sermon preached before the right Ho<g ref="char:EOLhyphen"/>nourable the Lord Major, <hi>&amp;c.</hi> on <hi>June 20th.</hi> 1680.</head>
+            <epigraph>
+               <bibl>PSALM 97. 1.</bibl>
+               <q>The Lord Reigneth, let the Earth Rejoyce.</q>
+            </epigraph>
+            <p>THey who deny that the Providence of God is concerned in humane Affaires, as they may well be thought to deny the being of
+<pb n="2" facs="tcp:105388:6"/> God, becauſe the very notion of a Deity infi<g ref="char:EOLhyphen"/>nite in knowledge and Almighty in Power, ſuppoſes it no difficult task for him to govern the World who firſt made it; ſo do they un<g ref="char:EOLhyphen"/>dermine and deſtroy the principal ſupport of a good mans Confidence. For where ſhall the weary mind of man repoſe it ſelf, amidſt the ſurpriſing Accidents, and afflicting diſap<g ref="char:EOLhyphen"/>pointments of this life? Is the World a Lotte<g ref="char:EOLhyphen"/>ry? and do things come to paſs by chance? What a poor content then do our preſent En<g ref="char:EOLhyphen"/>joyments adminiſter to us, and where is our ſecurity for the time to come? <hi>To what purpoſe</hi>
+               <note place="margin">Antonynus.</note> 
+               <hi>do I live in a world void of God, and void of</hi> Pro<g ref="char:EOLhyphen"/>vidence? <hi>But there is a God, and he doth take care of human Affairs.</hi> This was the ſatisfacti<g ref="char:EOLhyphen"/>on of the <hi>Heathen Emperour; The Lord Reigns, let the Earth rejoyce.</hi> So here the Divine <hi>Pſal<g ref="char:EOLhyphen"/>miſt.</hi> An Inference which a Religious man may at all times make, but he never more needs it than in an unquiet and unſetled ſtate of things. The Doctrine is great, and the Inference is good. <hi>The Lord Reigns, the moſt high rules over all the Kingdoms of me.</hi> Nothing eſcapes his Knowledge. Nothing controles his Power: All things are managed by incomprehenſible Wiſdom, and infinite Goodneſs. And here
+<pb n="3" facs="tcp:105388:6"/> we ſit down and reſt our ſelves. When we have prayed (as we do in the <hi>Collect</hi> of this day) that God would <hi>keep us under the protecti<g ref="char:EOLhyphen"/>on of his good Providence;</hi> with a <hi>Peace that paſſes Uall nderſtanding,</hi> with an inward ſatisfaction of mind and a deep joy, among the manifold changes and hazards of this mortal life, we commit our ſelves, and all our concerns to the governance of God, and give him thanks that he will pleaſe to undertake the care of us.</p>
+            <p>A Conſideration of ſo great Importance, that I willingly wave all farther preface, and take no notice of the reſt of the <hi>Pſalm,</hi> nor enquire whether theſe words may bear another ſence in reference to Chriſts Kingdom, but apply my ſelf to diſcourſe on this Argument.</p>
+            <p>
+               <hi>It is a great ſatisfaction to a good man, that the Providence of God governs the World.</hi> In which I diſtinctly conſider.</p>
+            <list>
+               <item>1. <hi>The Lord Reigns. The Providence of God governs the World.</hi>
+               </item>
+               <item>2. <hi>This is a great ſatisfaction to the mind of man.</hi>
+               </item>
+               <pb n="4" facs="tcp:105388:7"/>
+               <item>3. But, <hi>He muſt be a good and religious man that may with reaſon actually rejoyce in this Aſſu<g ref="char:EOLhyphen"/>rance of Gods Providence.</hi>
+               </item>
+            </list>
+            <p>In all which I have not the Vanity to pre<g ref="char:EOLhyphen"/>tend that I can crowd into an hours diſcourſe, all that might pertinently be ſaid in this matter. But though out of reſpect to the time, and your patience, I muſt of neceſſity omit many things, that might here have a proper place, yet according to my poor ability, I will en<g ref="char:EOLhyphen"/>deavour to ſay nothing that may be Imper<g ref="char:EOLhyphen"/>tinent.</p>
+            <p n="1">1. <hi>The Lord Reigns.</hi> God guides and governs the World, all the Creatures in it, all the Af<g ref="char:EOLhyphen"/>fairs of it, eſpecially thoſe of mankind. By the right of Creation he has Authority over us, and he exerciſes that Authority in making Laws for us. To us Chriſtians he has given his <hi>Holy Word,</hi> which is the Law of our Cre<g ref="char:EOLhyphen"/>ation, and of our Redemption too. But to all men he has given a <hi>Law written in their Hearts,</hi>
+               <note place="margin">Rom. 2.</note> a Conſcience of good and evil. But becauſe Authority ſeperate from Power is inſignificant; therefore<g ref="char:punc">▪</g> that is alſo viſible, in <hi>rewarding thoſe</hi>
+               <note place="margin">Hebr. 11.</note> 
+               <hi>that diligently ſeek him,</hi> and puniſhing the Re<g ref="char:EOLhyphen"/>fractory
+<pb n="5" facs="tcp:105388:7"/> and diſobedient; which Rewards and Puniſhments, if to humane ſenſe they ſome<g ref="char:EOLhyphen"/>times ſeem unequally diſtributed; yet is this no ſufficient exception againſt the Doctrine of Providence; as will appear in the ſequel of this Diſcourſe, when I have firſt given a fuller declaration of this thing.</p>
+            <p>The Providence of God governs the world, and extends it ſelf to all Times, and Places, and Perſons upon the face of the Earth. In<g ref="char:EOLhyphen"/>terpoſes in all Events, has the Supremacy in all Affairs, ſo that nothing upon any pretence is remote or exempt from his Juriſdiction.</p>
+            <list>
+               <item>
+                  <hi>For,</hi> 1. There is nothing ſo high or great as to be above the reach, and out of the power of Almighty God.</item>
+               <item>2. Nothing is ſo mean, and low, and inconſidera<g ref="char:EOLhyphen"/>ble, as to be unworthy the Care of an Univerſal Father.</item>
+               <item>3. Nothing ſo ſecret, intricate, or perplexed; as to puzzle Infinite Wiſdom.</item>
+            </list>
+            <p n="1">1. The <hi>King of Kings</hi> Reigns over all: He is King of all the Earth, Emperors, and Kings, and Popes, Powers Civil and Eccleſiaſtical,
+<pb n="6" facs="tcp:105388:8"/> have no Authority but what they derive from God; and if they uſurp any other power, it is at leaſt by his permiſſion. We read of one that <hi>Oppoſes and Exalts himſelf above all that is called God,</hi>
+               <note place="margin">2 Theſſ. 2.</note> whether it be not the ſame who undertakes to diſpenſe with and againſt Divine Laws, let they look to it that are concern'd in the Uſur<g ref="char:EOLhyphen"/>pation. There have not been many greater than <hi>Nebuchadnezzar,</hi> nor that have arrogated more; but it pleaſed God to humble him, and to teach him to know, and to keep his diſtance: When his Underſtanding (which he had forfeit<g ref="char:EOLhyphen"/>ed by his pride) return'd to him, he knew <hi>that the Moſt High ruled in the Kingdoms of Men.</hi> He<note place="margin">Dan. 4.</note> acknowledged, that <hi>His Dominion is an everlaſt<g ref="char:EOLhyphen"/>ing Dominion, and his Kingdom from Generation to Generation:</hi> That, <hi>All the Inhabitants of the Earth are reputed as nothing, that he does according to his Will in the Army of Heaven, and among the Inhabi<g ref="char:EOLhyphen"/>tants of the Earth, and none may ſtay his hand, or ſay unto him, what dost thou?</hi>
+            </p>
+            <p n="2">2. <hi>There is nothing ſo mean, and low, and inconſide<g ref="char:EOLhyphen"/>rable, as to be unworthy of Gods Care:</hi> He who <hi>numbers the hairs of our heads,</hi> who regards <hi>the fal<g ref="char:EOLhyphen"/>ling</hi>
+               <note place="margin">St. Math. 10.</note> 
+               <hi>of a Sparrow,</hi> who owns the <hi>Caterpillar and Locuſts</hi> to be of his <hi>great Army;</hi> who made the ſmalleſt Creatures, and foreſees the leaſt E<g ref="char:EOLhyphen"/>vents;<note place="margin">Joel 2.</note>
+               <pb n="7" facs="tcp:105388:8"/> why ſhould it be difficult to believe, that all theſe little things are within the gui<g ref="char:EOLhyphen"/>dance, and ſubject to the diſpoſals of Gods Pro<g ref="char:EOLhyphen"/>vidence. It is ſome what ſurpriſing, to find ſo grave an Author as <hi>Plutarch</hi> (who elſewhere<note place="margin">De ſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>râ Nu<g ref="char:EOLhyphen"/>min. vindictâ,</note> endeavours to reconcile the Providence of God, with the flow puniſhments of wicked men)<note place="margin">De placit. Philoſoph.</note> ſhould reprove <hi>Plato</hi> and <hi>Anaxagoras,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <g ref="char:punc">▪</g> As if he thought it below the Majeſty of God, to condeſcend to humane affairs. But I am amazed to obſerve ſo learned a man as <hi>Jerome,</hi> who underſtood the Chriſtian Religion ſo well, ſhould think it abſurd, <hi>Ad hoc deducere Dei Majeſtatem, ut ſciat</hi>
+               <note place="margin">Commentar. in Habak. Cap. 1.</note> 
+               <hi>per momenta ſingula quot naſcantur culices quotve mo<g ref="char:EOLhyphen"/>riantur;</hi> the light of Nature did teach ſome Hea<g ref="char:EOLhyphen"/>thens better Divinity: From the exquiſite Cu<g ref="char:EOLhyphen"/>rioſities of the Induſtrious Bee, <hi>Virgil</hi> infers,</p>
+            <q>
+               <l>—Deum namque ire per omnes</l>
+               <l>Terraſque, tractuſque Maris, Coelumque profundum.<note place="margin">Georg. lib. 4.</note>
+               </l> 
+            </q>
+            <p>But I offer no other conviction in this thing, than this Obſervation; I hat great and ſignal Events do many times depend on ſmall mat<g ref="char:EOLhyphen"/>ters: <hi>Anacreon</hi> is choak'd with a Grape ſtone, and Pope <hi>Adrian</hi> the <hi>Fourth</hi> with a Fly; <hi>Abſalom</hi>
+               <pb n="8" facs="tcp:105388:9"/> is hang'd in his own hair; ſo ſmall a thing as the want of a Nights ſleep, is a means to pre<g ref="char:EOLhyphen"/>ſerve <hi>Mordecai</hi>'s Life, and by conſequence, to ruine <hi>Haman,</hi> and ſave a whole Nation. The over-Officiouſneſs of <hi>Caeſar Borgia</hi>'s Butler, poy<g ref="char:EOLhyphen"/>ſon'd his Father, Pope <hi>Alexander</hi> the <hi>Sixth,</hi> and<note place="margin">Onupher. Vit. Alex. 6.</note> thereby broke all the deſigns of <hi>Borgia.</hi> In the courſe of Providence, all that concurrs is not alike viſible, nor at firſt conſiderable: Great weights may hang on ſmall wires, we may be ſuperſtitious in obſerving every little Oc<g ref="char:EOLhyphen"/>currence, as if it were ominous and preſaging; we may alſo be too regardleſs of ſmaller E<g ref="char:EOLhyphen"/>vents; ſure it is they are not altogether neg<g ref="char:EOLhyphen"/>lected of God: Within his wiſe diſpoſal of all things, is comprehended his Governing thoſe Events, which at firſt are as hardly diſcern'd and as little regarded, as the <hi>Cloud about the big<g ref="char:EOLhyphen"/>neſs of a mans Hand;</hi> but as that overſpread the whole Heavens, ſo ſometimes are little Acci<g ref="char:EOLhyphen"/>dents the firſt ſteps and advances to greater matters.</p>
+            <p n="3">3. Nothing is ſo ſecret or far removed from ordinary Obſervation, as to preſerve it ſelf from the knowledg and Controul of God: The Em<g ref="char:EOLhyphen"/>pire of the great God extends farther than any
+<pb n="9" facs="tcp:105388:9"/> power of men can; our ſecret thoughts and moſt inward motions of our minds, all theſe are naked and open to the eye of God; and he<note place="margin">Prov. 21.</note> 
+               <hi>in whoſe hand are the hearts of Kings, to turn whi<g ref="char:EOLhyphen"/>therſoever he will,</hi> is not a Stranger to what is ſe<g ref="char:EOLhyphen"/>cretly agitated in other mens Breaſts. Thought is free we ſay; to humane Cognizance it is ſo, if by our own indiſcretions we do not betray our ſelves; but he that made the heart, and that will call us to account for every ſecret thing, he has a perfect knowledge of, and an undoubted Authority over all that is tranſacted within our own mind.</p>
+            <p>Again, The Providence of God extends to ſecret things as well as open, to all thoſe My<g ref="char:EOLhyphen"/>ſteries of Iniquity that are plotted and contriv'd in Hell and Darkneſs: When we hear of Plots and Conſpiracies, we are ſolicitous leſt their depth ſhould be unfathomable, and therefore leſt the deſtruction they contrive ſhould be un<g ref="char:EOLhyphen"/>avoidable. But, <hi>There is no darkneſs nor ſhadow</hi>
+               <note place="margin">Job 34.</note> 
+               <hi>of death, where the workers of Iniquity may hide them<g ref="char:EOLhyphen"/>ſelves.</hi> He that caſt the Devils into Hell, con<g ref="char:EOLhyphen"/>fines and rules them there; or if he ſuffer them ſometimes to range the world<g ref="char:punc">▪</g> and inſpirit men to deſigns deviliſh and helliſh, <hi>i. e.</hi> full of ſub<g ref="char:EOLhyphen"/>tilty
+<pb n="10" facs="tcp:105388:10"/> and full of miſchief; yet ſhall they make no farther progreſs than God will give them leave: He can check them when he pleaſes, he can diſcover the deeds of darkneſs, and diſ<g ref="char:EOLhyphen"/>appoint the devices of the Crafty; <hi>He that ſits in the Heavens,</hi> can laugh all the Devils in Hell to ſcorn.</p>
+            <p>Againſt what has been hitherto ſaid, if any prejudice ariſe, I conceive there is none greater than theſe three.</p>
+            <p>If the Providence of God govern the world, then</p>
+            <list>
+               <item>1. Why does he permit ſin, which he ſo much hates?</item>
+               <item>
+                  <hi>Or, 2.</hi> If he think fit to permit it, why does he not puniſh it?</item>
+               <item>
+                  <hi>And 3.</hi> Why are holy and Religious men ſo unre<g ref="char:EOLhyphen"/>garded?</item>
+            </list>
+            <p n="1">1. Why does a pure and holy God permit ſin, which is ſo infinitely diſpleaſing to him? I might anſwer,</p>
+            <p>Firſt, If there were no God, there would be
+<pb n="11" facs="tcp:105388:10"/> no Devil, there could be no Sin: <hi>Sin is a tranſ<g ref="char:EOLhyphen"/>greſſion</hi>
+               <note place="margin">St. Joh. 1. <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>of the Law;</hi> if God did not Rule the World, if he have not exerciſed his Authority in giving Laws for the governing mens actions,<note place="margin">Rom. 4.</note> then, <hi>where no Law is, there is no Tranſgreſſion;</hi> ſo that this Objection overthrows it ſelf. The very being of Sin in the world, ſuppoſes Pro<g ref="char:EOLhyphen"/>vidence: but I add to that anſwer; God has done ſo much to prevent Sin, and to over-rule it, and will do ſo much in the puniſhing of it, that this can be no reaſonable Objection againſt Providence.</p>
+            <p n="1">1. In order to the prevention of Sin, God has declared his pleaſure in Commanding the contrary; he has offered the aſſiſtance of his <hi>Holy Spirit,</hi> that <hi>Sin may not have Dominion over us.</hi> He withholds no help or aid that he is bound to give, but if, in the offering or beſtow<g ref="char:EOLhyphen"/>ing this Aſſiſtance, he think not fit to do vio<g ref="char:EOLhyphen"/>lence to the nature of a reaſonable Creature, it ought not to be wondred at. He forbids ſin, and makes known the danger of it, and ear<g ref="char:EOLhyphen"/>neſtly ſollicits men to turn from their evil ways: <hi>Why will ye die, O Houſe of Iſrael?</hi> But if men will abuſe their own liberty, this is enough to vin<g ref="char:EOLhyphen"/>dicate the Providence of God toward thoſe
+<pb n="12" facs="tcp:105388:11"/> that remain wicked; he deals with them as with reaſonable Creatures: Men are wanting to themſelves, God is not wanting to them.</p>
+            <p n="2">2. As God has done much to prevent Sin, ſo does he likewiſe over-rule it. He reſtrains it and makes it ſerve his own Glory; ſo ſuc<g ref="char:EOLhyphen"/>ceeded the Envy of <hi>Joſeph</hi>'s Brethren, and the malice of the Jews to our <hi>bleſſed Saviour:</hi> And in many other caſes God has brought good out of evil, and thereby declared that his Provi<g ref="char:EOLhyphen"/>dence governs the world.</p>
+            <p>Eſpecially when, 3. It is conſidered, that God will puniſh the ſin he ſo much hates: But this is of it ſelf another Objection.</p>
+            <p n="2">2. If God govern the world, why does Providence ſeem ſo lame and unconcern'd; when men dare the Juſtice of God and defie Heaven, and grow enormouſly wicked? Yet <hi>The wicked live, become old, and are mighty in power: Their Houſes are ſafe from fear, neither is the Rod</hi>
+               <note place="margin">Job 21.</note> 
+               <hi>of God upon them.</hi>
+            </p>
+            <p>I anſwer as followeth.</p>
+            <p>1. Who can tell that the Vengeance of God
+<pb n="13" facs="tcp:105388:11"/> does not often overtake wicked men, when to outward appearance they brave &amp; hector, and live as if nothing diſturbed them? There are ſecret throbings of Conſcience, which men ſtrive to preſerve from outward notice, and ſo long as thoſe inward Horrors do not ap<g ref="char:EOLhyphen"/>proach very near diſpair, they may be undiſ<g ref="char:EOLhyphen"/>cerned. But <hi>the Heart knows its own bitterneſs;</hi> the mind of man doth ſeverely laſh itſelf. And from hence may it rationally be argued to the conviction of thoſe that quarrel at Pro<g ref="char:EOLhyphen"/>vidence.</p>
+            <q> 
+               <note place="margin">
+                  <hi>Juven.</hi> Satyr. 13.</note>
+               <l>—Cur tamen hos tu</l>
+               <l>Evaſiſſe putes, quos diri conſcia facti</l>
+               <l>Mens habet attonitos, &amp; ſurdo verbere caedit,</l>
+               <l>Occultum quatiente animo tortore flagellum.</l> 
+            </q>
+            <p>Do you think wicked men eſcape the ven<g ref="char:EOLhyphen"/>geance of God? No; the Viper gnaws and torments within. Dreadful are the Agonies. Bitter is the diſtreſs and anguiſh that men feel in their own minds. Or, if this do not always happen, yet for ought a by-ſtander knows it may happen, and even then, when men out<g ref="char:EOLhyphen"/>wardly ruffle and ſeem to ſin without fear.</p>
+            <pb n="14" facs="tcp:105388:12"/>
+            <p>But, 2. is our Eye evil becauſe God is good? What if the long-ſuffering of God wait upon men, that his goodneſs may lead them to Repentance, this muſt not be accounted an Imputation upon Providence?</p>
+            <p>3. God has it in his power to animadvert when he pleaſes: And therefore no wonder if he delay that execution, which he can ha<g ref="char:EOLhyphen"/>ſten at his own pleaſure.</p>
+            <p>For, 4. Puniſhment ſhall come, and the longer it is deferred, the more dreadful it ſhall at laſt be. Sometimes Providence juſti<g ref="char:EOLhyphen"/>fies it ſelf, and meets with men in this world; by many ſtrange diſcoveries of Treaſons, and Murders and Robberies, and other licentious practices, God has honoured the Juſtice of his Adminiſtrations, or if he ſometimes delay, Yet</p>
+            <p>5. <hi>The revelation of the Righteous Judgment of</hi>
+               <note place="margin">Rom. 2.</note> 
+               <hi>God,</hi> at the laſt and great day, will give all men ſatisfaction, that the righteous God is not now an Idle, and unconcern'd ſpectator of the wick<g ref="char:EOLhyphen"/>edneſs of men: for then <hi>he will reward every man according to his deeds.</hi>
+            </p>
+            <p n="3">
+               <pb n="15" facs="tcp:105388:12"/>3 There remains but one thing more to be argued in this matter. Why does a gracious and good God, ſo little regard holy men in the midſt of thoſe tribulations they ſuffer in this World? A common objection, and ſome have boldly expreſſed it. When <hi>Lucan</hi> finds <hi>Pompey,</hi> whom he thought the better man, and to have the juſter cauſe, ruin'd by <hi>Caeſar,</hi> how does he exclaime and blaſpheme?</p>
+            <q> 
+               <note place="margin">Lucan. Lib, 7.</note>
+               <l>——Sunt nobis nulla profectò</l>
+               <l>Numina, cum caeco rapiantur ſaecula curſu</l>
+               <l>Mentimur regnare Jovem.—</l> 
+            </q>
+            <p>So Atheiſtical men may talk: but holy men notwithſtanding all they ſuffer in this world, are not diſſatisfied in their Religion. Though God <hi>ſlay them yet they will truſt in him.</hi> And by<note place="margin">Job. 13.</note> their <hi>caſting all their care upon him,</hi> it appears they<note place="margin">1 S. Pet. 5.</note> believe <hi>he takes care of them.</hi> If we conſider far<g ref="char:EOLhyphen"/>ther, that no man ſuffers more than he de<g ref="char:EOLhyphen"/>ſerves; that it is <hi>good for men to be afflicted.</hi> If<note place="margin">Pſal. 119.</note> we can believe that the promiſes, which ſup<g ref="char:EOLhyphen"/>poſe that holy men may be afflicted, ſhall be fulfilled to them: God <hi>will never leave them nor</hi>
+               <note place="margin">Hebr. 13. Pſal. 46. Rom. 5.</note> 
+               <hi>forſake them.</hi> He <hi>will be a preſent help in trouble,</hi> and will <hi>work all things for good.</hi> And if we
+<pb n="16" facs="tcp:105388:13"/> can riſe up to <hi>St. Pauls</hi> confidence about the happy iſſue of our preſent ſorrows. That <hi>our light Affliction which is but for a moment, ſhall work</hi>
+               <note place="margin">2. Cor. 4.</note> 
+               <hi>for us a far more exceeding and eternal weight of Glo<g ref="char:EOLhyphen"/>ry;</hi> I ſay if we can believe theſe things, then neither is this any ſufficient prejudice againſt Providence. I may conclude then the firſt part of my undertaking. <hi>The Lord Reigns;</hi> the Providence of God governs the World.</p>
+            <p>2 <hi>This is a great ſatisfaction to the mind of man; The Lord Reigns, let the Earth rejoyce.</hi> We meet with enough in this world to make it a vale of Tears. Sometimes we foreſee a ſtorm, ſometimes we ſail in the midſt of Rocks, and are juſt ready to ſtrike upon the Sands. Few are ſo over-happy, as not to be often ingaged in conſiderable difficulties: but we may al<g ref="char:EOLhyphen"/>ways<note place="margin">Hebr. 6.</note> ride at Anchor; ſuch is our <hi>hope in God, an Anchor ſure and stedfast.</hi> Yea we may wea<g ref="char:EOLhyphen"/>ther out the Storm, for if we can truſt our Pilot he will never fail us. Under all our ſor<g ref="char:EOLhyphen"/>rows and fears, it is an unſpeakable ſatisfaction, to commit our ſelves to the never failing gui<g ref="char:EOLhyphen"/>dance of the good Providence of God. And of this I ſay three things.</p>
+            <list>
+               <pb n="17" facs="tcp:105388:13"/>
+               <item>1 Thoſe things of which we are ignorant are known to a wiſe God.</item>
+               <item>2 Thoſe things which are againſt our wills, which we apprehend evil for us, are guided and ordered by the will of a good God.</item>
+               <item>3 Thoſe things which are out of our power, are within the Power of Almighty God.</item>
+            </list>
+            <p n="1">1<g ref="char:punc">▪</g> Our Ignorance is one great cauſe of our ſollicitude and diſſatisfaction: What would ſome men give certainly to foreknow their own fortune. Alas! In many caſes our Igno<g ref="char:EOLhyphen"/>rance is a great advantage to us.</p>
+            <q> 
+               <note place="margin">Horat. Carm. lib. 3.</note>
+               <l>Prudens, futuri temporis Exitum</l>
+               <l>Caliginoſâ nocte premit Deus.</l> 
+            </q>
+            <p>God does wiſely and mercifully conceal ſome things, a foreknowledge of which would add to our ſorrow. But take the caſe as it is, we are utterly uncertain about the time to come: But how will this conſideration calme thoſe troubled thoughts, that upon this ac<g ref="char:EOLhyphen"/>count ariſe within us? The wiſe God knows what ſhall befall us, tho' we do'n't.</p>
+            <pb n="18" facs="tcp:105388:14"/>
+            <p>Great are the anxieties upon the minds of men in the preſent poſture of Affairs. But now try we if this will not relieve us: <hi>What time I</hi>
+               <note place="margin">Pſal. 56.</note> 
+               <hi>am afraid, I will truſt in thee.</hi> Thou, O Lord,<note place="margin">Job. 5.</note> art able to take <hi>the wiſe in their own craftineſs. In</hi>
+               <note place="margin">Pſal. 31.</note> 
+               <hi>thee O Lord have I put my truſt, let me never be con<g ref="char:EOLhyphen"/>founded.</hi> Is not this now an eaſe to our minds? A wiſe God governs the World, He knows what ſhall come to paſs; and why.: It is not blind chance, but infinite wiſdom that ſuper<g ref="char:EOLhyphen"/>intends and governs all things. If men go down to Hell God is there. The moſt pro<g ref="char:EOLhyphen"/>bable contrivances of deſperate <hi>Ahitophel</hi>'s, whoſe Counſel among men is received as the <hi>Oracle of God,</hi> may yet be turned into fooliſh<g ref="char:EOLhyphen"/>neſs<note place="margin">2. Sam. 17.</note> and end in their own confuſion; and in a rage impatient to ſee their Plots miſcarry, they may ſave the labour of publick Juſtice and hang themſelves. The ſubtileſt platform of Policy of the moſt Atheiſtical <hi>Machiavels,</hi> may be as unfortunate as that of his wretched <hi>Duke Valentine,</hi> and may prove abortive from ſome unforeſeen accident, to which they themſelves may yet contribute. The myſterious Intri<g ref="char:EOLhyphen"/>gues of the moſt villanous <hi>Jeſuits</hi> (or if there be any other name among men, that ſignifies greater Apoſtacy from Faith and Truth, and
+<pb n="19" facs="tcp:105388:14"/> cloſer confederacy with Hell,) that were ever hatched in the moſt inward Receſſes of the depth of Darkneſs; theſe all are but like Spi<g ref="char:EOLhyphen"/>ders Webs, thin and tranſparent, and as eaſily ſwept down when Infinite Wiſdom ſhall think fit to make uſe of Almighty Power. This then is our Comfort and our Joy, when they who are too cunning for us, have advantages upon us, he who is wiſer than the wiſeſt takes care of us.</p>
+            <p>Yea moreover when we are diſappointed in our expectations, this may ſatisfy us. It is with us as it pleaſes the all-wiſe God. Perad<g ref="char:EOLhyphen"/>venture we are miſtaken in our own buſineſs, and may paſſionately deſire what may be to our loſs. However, ſhall we have leſs Reli<g ref="char:EOLhyphen"/>gion than the Heathen? ſhall it be harder for us to reſign our wills and wiſdoms to God?</p>
+            <q> 
+               <note place="margin">Juve<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g> Sat. 10.</note>
+               <l>Permittes ipſis expendere Numinibus quid</l>
+               <l>Conveniat nobis, rebuſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſit utile noſtris:</l> 
+            </q>
+            <p>It may come to paſs, that our very Errors may be happy for us; as was <hi>St. Auſtin</hi>'s be<g ref="char:EOLhyphen"/>ing<note place="margin">Poſidonius de vitâ Au<g ref="char:EOLhyphen"/>guſt.</note> led out of his way by the error of his Guide, and thereby he was preſerved from
+<pb n="20" facs="tcp:105388:15"/> the fury of the <hi>Circumcellion</hi>'s that way-laid him. Whatever befalls us, God is wiſer than we, he who knows all things, beſt knows what is fit and convenient for us.</p>
+            <p n="2">2. That which is againſt our wills, which we apprehend evil for us, is guided by the will of a good God, and this is marvelouſly to our ſa<g ref="char:EOLhyphen"/>tisfaction. Now we may <hi>rejoyce in tribulation,</hi> becauſe the hand of a good God is ſtill upon us, and he will work even this for good; the<note place="margin">
+                  <hi>Life of</hi> Dr. Hammond.</note> Incomparable <hi>Dr. Hammond</hi>'s word, <hi>Even this for good.</hi> When our affairs ſucceed not accor<g ref="char:EOLhyphen"/>ding to our expectation, ſhall we quarrel at Providence, and diſquiet our ſelves, and add to our own Afflictions by the fretfulneſs and impatience of our minds? No, ſay we every one to our ſelves, why ſhould I entertain any ſuſpition, that a merciful God who has made ſo many gracious promiſes, which my dear Saviour dyed to confirm, will be wanting to me? No, never let me diſtruſt that God whom I have ſo much reaſon to love. Wiſdom and goodneſs joyn together in the diſpoſe of all that befalls me, therefore <hi>will I rejoyce in the Lord,</hi>
+               <note place="margin">Habak. 3.</note> 
+               <hi>and joy in the God of my Salvation.</hi>
+            </p>
+            <p n="3">
+               <pb n="21" facs="tcp:105388:15"/>3. Thoſe things that are out of our power, are within the Power of Almighty God: We are troubled upon many accounts, and can't help our ſelves, and becauſe we can't help our ſelves we are troubled; but he that governs us and our affairs, can do all things by the word of his power: When we come into <hi>Jehoſhaphat</hi>'s caſe, then are we to behave our ſelves as he did.; <hi>Neither know we what to do, but our Eyes are</hi>
+               <note place="margin">2 Chron. 20.</note> 
+               <hi>upon thee: The Lords hand is not ſhortned, that it</hi>
+               <note place="margin">Iſa. 59.</note> 
+               <hi>cannot ſave.</hi> Nothing is too hard for him to do, God Almighty has undertaken our protection; wherefore when we conſider theſe in conjun<g ref="char:EOLhyphen"/>ction, the wiſdom, and goodneſs, and power of God, are ſufficient reaſons for our ſatisfaction and joy.</p>
+            <p>And if we extend theſe latter Conſiderati<g ref="char:EOLhyphen"/>ons as well as the former, beyond our private Concerns, and ſuffer our thoughts to travel the world; we ſhall indeed find that the follies and paſſions and intereſts of men bear great ſway here below, and in a great meaſure turn the world upſide down. Reſtleſs Ambition, inſatiable Envy, greedy Covetouſneſs, and Implacable Revenge, have often diſturb'd the
+<pb n="22" facs="tcp:105388:16"/> peace and quiet of Mankind; yet ſure we are, God has not let looſe theſe Furies, and diſcharg<g ref="char:EOLhyphen"/>ed them of his ſuper-intendence, nor privileg'd them from his Controul. We ſhall too curi<g ref="char:EOLhyphen"/>ouſly pry into the <hi>Arcana Imperii,</hi> if we will not be ſatisfied, till we can always render a reaſon why things are thus or ſo: The Judgments of God are often unſearchable, and his ways paſt finding out; but an humble Soul can truſt it ſelf and the whole world with God, can be<g ref="char:EOLhyphen"/>lieve that all things are well and wiſely order'd, is ſecure that the all-wiſe God can commit no errors, that a good God cannot be chargeable with any male-adminiſtrations; and that God Al<g ref="char:EOLhyphen"/>mighty does not ſuffer things to run at random, becauſe of any impotency to mend what is a<g ref="char:EOLhyphen"/>miſs: It would be uncomfortable living in the world, if all things were left to the arbitrement of meer men, who at beſt are too weak to bear ſo great a burthen, and often are ſo corrupt, that <hi>Maximilian</hi>'s Exclamation may ſuit other times as well as his own, when he was Empe<g ref="char:EOLhyphen"/>ror, and <hi>Julius 2d.</hi> Pope.</p>
+            <p>
+               <hi>Deus Aeterne! niſi tu vigilares quam malè effet</hi>
+               <note place="margin">Morn. Hiſtor. Papa<g ref="char:EOLhyphen"/>tus.</note> 
+               <hi>mundo, quem regimus nos, ego miſer venator &amp; ebrio<g ref="char:EOLhyphen"/>ſus ille &amp; ſceleratus</hi> Julius.</p>
+            <pb n="23" facs="tcp:105388:16"/>
+            <p>But God retains his Supremacy over all the Kingdoms and Nations of the Earth, he does never ſleep nor intermit his care; it ſhall not be intirely as men pleaſe: He that ſtills the ra<g ref="char:EOLhyphen"/>ging of the Sea, reſtrains the madneſs of Peo<g ref="char:EOLhyphen"/>ple. A great part of mankind know not of what manner of Spirit they are, and how much miſ<g ref="char:EOLhyphen"/>chief they ſhould do, if they had power to ful<g ref="char:EOLhyphen"/>fil their own wills. But when it pleaſes God to put an hook into the Noſe of the <hi>Leviathan, Rabſhekah</hi>'s ſwelling words ſhall be but impo<g ref="char:EOLhyphen"/>tent Rage. <hi>Haman</hi> ſhall build a Gallows for himſelf, <hi>No weapon form'd againſt God ſhall proſ<g ref="char:EOLhyphen"/>per;</hi>
+               <note place="margin">Iſa. 54.</note> it ſhall not be as man pleaſes, but as it pleaſes God: No man indeed ſhould be un<g ref="char:EOLhyphen"/>concern'd, when either Sin or Judgment for Sin rages in the world; but ſtill keep we within our own bounds of Patience, and Faith, and Prayer; endeavour we all to mend our ſelves, and then, whatever happens, reſt it not all on ſecond cauſes. The over-ruling of Gods Pro<g ref="char:EOLhyphen"/>vidence, is no manner of excuſe for wicked en<g ref="char:EOLhyphen"/>terpriſes; but if by a faithful diſcharge of our duty, if in Religion to God, in Loyalty to the King, in Peace, and Gentleneſs, and Brotherly Love one to another, we do what in us lies, that the ſtate of things ſhall not grow worſe by any
+<pb n="24" facs="tcp:105388:17"/> default of ours; if others take not the <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ame care, though they ſhall find no extenuation of their faults, nor mitigation of their puniſhment from this Doctrine of Providence; yet we ſhall gain a world of caſe and ſatisfaction from it: <hi>It is not for us to know Times and Seaſons which the</hi>
+               <note place="margin">Acts 1.</note> 
+               <hi>Father has put in his own power;</hi> we would fain hope well, that God will never forſake thoſe that ſeek him: But whatever we may live to ſee or feel,</p>
+            <p>We commit our ſelves and all our private Intereſts, we commit the Peace and Proſperity of the whole Nation, we commit our King, our Church, our Religion, all that is dear to us to a wiſe and good God: We will ceaſe to go<g ref="char:EOLhyphen"/>vern the world, but commit it to him whoſe right it is; neither the indiſcretions nor the ex<g ref="char:EOLhyphen"/>travagant paſſions of men ſhall over-rule; nor Men nor Devils, but the Providence of God is the Supreme Arbitrator: This is our ſatisfaction, a joy that no man takes from us, <hi>The Lord reigns therefore does the Earth rejoyce.</hi>
+            </p>
+            <p>May I exerciſe your Patience but a little lon<g ref="char:EOLhyphen"/>ger, till I have finiſhed the third part of my Diſcourſe.</p>
+            <pb n="25" facs="tcp:105388:17"/>
+            <p>3. He muſt be a good man that may, with reaſon, actually rejoyce upon this account: Gods Providence is not the peculiar inheritance of ſome few men, but the earth may rejoyce in it, <hi>i. e.</hi> all men every where unleſs they diſable themſelves. But if men will live wicked and ungodly lives, there is another Text not far off,<note place="margin">Pſal. 99. 1.</note> that does rather belong to them; <hi>The Lord reigns, let the People tremble:</hi> Every wicked man while he continues ſuch, has reaſon to fear, rather than to rejoyce in the Providence of God: For let it be conſidered,</p>
+            <p n="1">1. Only he who is in Gods way, may hope for Gods bleſſing: When men <hi>will walk con<g ref="char:EOLhyphen"/>trary to God,</hi> why ſhould they hope but that God <hi>will walk contrary to them:</hi> Muſt he be the dar<g ref="char:EOLhyphen"/>ling<note place="margin">Levit. 26.</note> of Providence, who ſcorns to ſubmit to God, but in pride and ſtubbornneſs contemns his Laws? Who may flatter himſelf as if he were in a ſecure Station, who may preſume that God is on his ſide, while he notoriouſly withdraws himſelf from obedience to his Com<g ref="char:EOLhyphen"/>mands. He who <hi>waits on the Lord, and keeps his way,</hi> may hope well; but to forſake God, is the way to be forſaken of him. No man may rejoyce in confidence that God will always
+<pb n="26" facs="tcp:105388:18"/> watch over him for good, who by running out of the way of a good life, diſcharges Provi<g ref="char:EOLhyphen"/>dence from taking any farther care of him.</p>
+            <p n="2">2. Who may rejoyce in Gods Providence, that can make no Title to his Promiſes? God is holy, and juſt, and true, what he has pro<g ref="char:EOLhyphen"/>miſed he will perform; <hi>But unto the wicked God</hi>
+               <note place="margin">Pſal. 50.</note> 
+               <hi>ſaith, What haſt thou to do to take my Covenant into thy mouth?</hi> There are Curſes in the Holy Scri<g ref="char:EOLhyphen"/>pture as well as Bleſſings; and for the ſame rea<g ref="char:EOLhyphen"/>ſon that Religious and Holy Men hope well, that God will be merciful to them, becauſe he will be true to his word; I ſay, for the ſame reaſon may wicked men tremble: <hi>God is angry with the wicked every day;</hi> and he will be faithful<g ref="char:punc">▪</g>
+               <note place="margin">Pſal. 7.</note> to his Threatnings as well as to his Promiſes. How then ſhould they tremble who deſpiſe the Authority of God, who forfeit all that good<g ref="char:EOLhyphen"/>neſs and kindneſs by which they live, who are every moment obnoxious to Almighty Power, who enjoy no Accommodations in this life, but only by the long-ſuffering and patience of God, which how ſoon it may expire, no man can tell; who if they continue in this ſinful ſtate muſt be miſerable, or God muſt lye, who has told them ſo? Let theſe things be well conſidered, and
+<pb n="27" facs="tcp:105388:18"/> then let wicked men ſay, whether that Do<g ref="char:EOLhyphen"/>ctrine of our Religion, which affords ſuch un<g ref="char:EOLhyphen"/>ſpeakable comfort and ſatisfaction to holy and good men, be not otherwiſe very terrible; and ſo much the more, becauſe he who can't take comfort in the Providence of God, has nothing elſe to rejoyce in; for all other things are un<g ref="char:EOLhyphen"/>der the dominion of Providence, and controul<g ref="char:EOLhyphen"/>able by it. The greatneſs of his Fortune, the multitude of his Riches, the abundance of his Pleaſures, are all in the hand and power of God, who can eaſily curſe the bleſſings of men, ſo that their very lives and all that was pleaſu<g ref="char:EOLhyphen"/>rable in them, ſhall be bitterneſs and a burthen to them.</p>
+            <p>This is a ſad Argument ſo far as it reflects upon particular perſons, to whom while they continue in their Impieties, the thoughts of God muſt needs be terrible: But if we conſider far<g ref="char:EOLhyphen"/>ther, what influence growing wickedneſs has upon publick Calamities, it will adminiſter more ſad thoughts to us. We have been a<g ref="char:EOLhyphen"/>wakened to a ſenſe of danger from an Enemy reſtleſs and daring, we have prayed many and many a time, that God <hi>would abate their Pride, aſſwage their Malice, and confound their Devices;</hi>
+               <pb n="28" facs="tcp:105388:19"/> and hitherto God has been merciful to us: But ſhall I be bold to ſay, there is another Plot a<g ref="char:EOLhyphen"/>gainſt the King, againſt the Government, and againſt our eſtabliſhed Religion: I ſay, ano<g ref="char:EOLhyphen"/>ther Plot leſs feared, but not leſs dangerous: Every wicked man is a Traitor to his Prince and Country, and by <hi>his doing wickedly</hi> provokes<note place="margin">1 Sam. 12.</note> God <hi>to conſume him and his King.</hi> Every com<g ref="char:EOLhyphen"/>mon Drunkard, every bold Swearer, every la<g ref="char:EOLhyphen"/>ſcivious and unclean Perſon, every diſhoneſt Trader, who poſtpones his Religion to Two<g ref="char:EOLhyphen"/>pence of unjuſt gain; every man that allows himſelf in a wicked courſe of life, is in conſpi<g ref="char:EOLhyphen"/>racy for the ruin of this Nation.</p>
+            <p>The <hi>Church</hi> of <hi>England,</hi> the worthy labours of whoſe eminent Divines, have made the Pa<g ref="char:EOLhyphen"/>piſts weary of diſputing with them; the <hi>Church</hi> of <hi>England,</hi> whoſe regular Reformation is as ſtrong a bulwark<g ref="char:punc">▪</g> againſt the encroachments of <hi>Popery,</hi> as any is this day in <hi>Chriſtendom;</hi> the <hi>Church</hi> of <hi>England</hi> who ſtands her ground, and maintains the very ſame Articles of Religion, that it did above an hundred years ago, and who has not by any <hi>Rubrick,</hi> or <hi>Canon,</hi> or <hi>Conſti<g ref="char:EOLhyphen"/>tution</hi> ſince thoſe times, corrupted our well-Re<g ref="char:EOLhyphen"/>formed Religion; yet this once glorious Church
+<pb n="29" facs="tcp:105388:19"/> ſometimes the Terrour of her Enemies and the Envy of her Neighbours, cannot eſcape the Cenſures of malevolent men: Inſtead of taking the advice that was here lately given, <hi>whereto we have already attained, let us walk by the ſame Rule, let us mind the ſame thing.</hi> Inſtead of uniting as far as we can, ſome there are that take a pleaſure in reporting us to make ad<g ref="char:EOLhyphen"/>vances towards <hi>Rome.</hi>
+            </p>
+            <p>Alas! There is another peece of <hi>Popery,</hi> in which the Nation does indeed advance; I mean in the Licentiouſneſs of our Morals. They by their Doctrines of eaſie Confeſſions, ready Diſpenſations and plenary Indulgences, tempt men to be ſecurely wicked: But how many among us practiſe as if they believed the ſame Doctrine? Were we as reformed in our Lives, as we are in our Eſtabliſhed Do<g ref="char:EOLhyphen"/>ctrines (for there is no reaſon the <hi>Church</hi> of <hi>England</hi> ſhould be reſponſible for all that par<g ref="char:EOLhyphen"/>ticular men may raſhly ſay) But I ſay, were our Lives as ſincere and uncorrupt as our E<g ref="char:EOLhyphen"/>ſtabliſhed Doctrines, we would fear neither <hi>Rome</hi> nor <hi>Hell.</hi> The Providence of God would be a wall of fire round about us: God would defend this City and this Nation, and would ſave it for his Name's ſake: He would
+<pb n="30" facs="tcp:105388:20"/> hear the Prayer we this day make, and would ſtill <hi>keep us under the Protection of his good Provi<g ref="char:EOLhyphen"/>dence.</hi> But if neither Plagues nor Fires: If neither Wars nor Conſpiracies will reform us; though religious and holy men may hope well, that God will never caſt them off, but whatever befall them, the good hand of God ſhall be upon them, and therefore they <hi>rejoyce</hi> becauſe the <hi>Lord Reigns:</hi> Yet all wicked men have as much reaſon to tremble in dread of the diſpleaſure of Almighty God.</p>
+            <p>What then remains, but that we ſhould <hi>ſearch and try our ways:</hi> What are we, and how do we live? If we endeavour to ſerve and pleaſe God, then will God watch over us for good; and then all the Comforts of this World are not comparable to the ſatisfaction we may take in this, that the<g ref="char:punc">▪</g> Lord our God, who loves us and has a kindneſs for us, that he Reigns in the World. It is a word too big for a Heathen,</p>
+            <q> 
+               <note place="margin">Horat. Carm. lib. 3.</note>
+               <l>Si fractus illabatur Orbis</l>
+               <l>Impavidum feriunt ruinae.</l> 
+            </q>
+            <p>Nay, every pious good Chriſtian cannot
+<pb n="31" facs="tcp:105388:20"/> reach Saint <hi>Paul</hi>'s triumphant unconcerned<g ref="char:EOLhyphen"/>neſs, who ſays, <hi>None of theſe things move me, nei<g ref="char:EOLhyphen"/>ther</hi>
+               <note place="margin">Acts 20.</note> 
+               <hi>count I my life dear to my ſelf.</hi>
+            </p>
+            <p>But this our Religion teaches us to aſpire to, and as we grow <hi>ſtrong in the Faith,</hi> we ſhall with the greater Conſtancy of Mind, reſign our wills and our enjoyments, and our deſigns to the wiſe diſpoſals of God, and if we be true to our Religion, we ſhall always rejoyce that we are under his care.</p>
+            <p>But if our Conſciences reproach us, that we take no heed to walk in the ways of God; then woe be to us, that dare contend with the Almighty. We are then upon our good behaviour in this matter. God will be to us a Friend or an Enemy; we ſhall inherit a Bleſſing or a Curſe, according as we obey or as we contemn God.</p>
+            <p>Thus I have ſet before you Life and Death, a Bleſſing and a Curſe. <hi>Chuſe you this day whe<g ref="char:EOLhyphen"/>ther or no you will ſerve God;</hi> but according as you chuſe, <hi>as you do ſo God will requite you.</hi>
+               <note place="margin">Judg. 1.</note>
+            </p>
+            <p>
+               <hi>The Lord Reigns, let the Wicked tremble. The Lord Reigns, let the Righteous rejoyce.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:105388:21" rendition="simple:additions"/>
+            <p>The Reverend Author hath lately Publiſh<g ref="char:EOLhyphen"/>ed a Treatiſe Intituled,</p>
+            <p>A Diſcourſe of Superſtition, with reſpect to the preſent Times, wherein the Church of <hi>England,</hi> is Vindicated from the Imputation, and the Charge retorted not only on the <hi>Pa<g ref="char:EOLhyphen"/>piſts,</hi> but alſo on men of other Perſwaſions.</p>
+            <p>
+               <hi>Sold by</hi> Jonathan Robinſon, <hi>at the</hi> Golden Li<g ref="char:EOLhyphen"/>on <hi>in St.</hi> Paul's <hi>Church-Yard.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
